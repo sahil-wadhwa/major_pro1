@@ -63,7 +63,7 @@ const Footer = () => {
                 </ul>
             </div>
 
-            <div>
+            {/* <div>
                 <p className="text-sm font-semibold tracking-widest text-gray-400 uppercase">Company</p>
 
                 <ul className="mt-6 space-y-4">
@@ -83,9 +83,9 @@ const Footer = () => {
                         <a href="#" title="" className="flex text-base text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> Career </a>
                     </li>
                 </ul>
-            </div>
+            </div> */}
 
-            <div>
+            {/* <div>
                 <p className="text-sm font-semibold tracking-widest text-gray-400 uppercase">Help</p>
 
                 <ul className="mt-6 space-y-4">
@@ -105,7 +105,7 @@ const Footer = () => {
                         <a href="#" title="" className="flex text-base text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> Privacy Policy </a>
                     </li>
                 </ul>
-            </div>
+            </div> */}
 
             <div className="col-span-2 md:col-span-1 lg:col-span-2 lg:pl-8">
                 <p className="text-sm font-semibold tracking-widest text-gray-400 uppercase">Subscribe to newsletter</p>

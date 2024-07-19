@@ -23,7 +23,7 @@ const VantaComponent = (props) => {
   return (
       <div ref={myRef} className='w-screen h-full overflow-x-hidden flex flex-col'>
         <div className='flex flex-row'>
-          <Sidenav/>
+          {/* <Sidenav/> */}
           <div className='flex flex-col object-contain'>
             <Navbar/>
             <Body/>
