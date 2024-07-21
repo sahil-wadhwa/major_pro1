@@ -22,13 +22,13 @@ const VantaComponent = (props) => {
   }, [vantaEffect])
   return (
       <div ref={myRef} className='w-screen h-full overflow-x-hidden flex flex-col'>
-        <div className='flex flex-row'>
+        {/* <div className='flex flex-row'> */}
           {/* <Sidenav/> */}
           <div className='flex flex-col object-contain'>
             <Navbar/>
             <Body/>
             <Footer/>
-          </div>
+          {/* </div> */}
         </div>
       </div>
       )
